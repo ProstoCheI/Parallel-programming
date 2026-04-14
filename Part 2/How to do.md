@@ -96,7 +96,7 @@ $$x_i = (c_i \cdot c_{i+1}) x_{i+2} + (c_i g_{i+1} + g_i)$$
 
 Мы работаем с расширенной матрицей вида $[A | b]$ и с помощью элементарных преобразований приводим её к виду:
 
-$\begin{pmatrix} 1 & 0 & \dots & 0 & | & x_0 \\ 0 & 1 & \dots & 0 & | & x_1 \\ \vdots & \vdots & \ddots & \vdots & | & \vdots \\ 0 & 0 & \dots & 1 & | & x_n \end{pmatrix}$
+$$\begin{pmatrix} 1 & 0 & \dots & 0 & | & x_0 \\ 0 & 1 & \dots & 0 & | & x_1 \\ \vdots & \vdots & \ddots & \vdots & | & \vdots \\ 0 & 0 & \dots & 1 & | & x_n \end{pmatrix}$$
 
 ### Основные шаги:
 
